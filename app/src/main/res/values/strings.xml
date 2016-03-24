@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ITS Alerts</string>
+    <string name="title_activity_subscription">SubscriptionActivity</string>
+
+    <string name="hint_username">Enter Username</string>
+    <string name="hint_password">Enter Password</string>
+</resources>
